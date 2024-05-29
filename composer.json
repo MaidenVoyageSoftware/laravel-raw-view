@@ -1,9 +1,9 @@
 {
-    "name": "sergant210/laravel-raw-view",
+    "name": "maidenvoyagesoftware/laravel-raw-view",
     "type": "library",
     "description": "It's intended to compile a view from the HTML string 'on the fly'. You don't need to create a view file.",
     "keywords": ["laravel", "rawview", "view", "blade"],
-    "homepage": "https://github.com/sergant210/laravel-raw-view",
+    "homepage": "https://github.com/MaidenVoyageSoftware/laravel-raw-view",
     "license": "MIT",
     "version": "2.0.0",
     "authors": [
@@ -17,7 +17,7 @@
         "issues": "https://github.com/sergant210/laravel-raw-view/issues"
     },
     "require": {
-        "php" : "~7.0",
+        "php" : "^7.0|^8.0",
         "illuminate/view": "^7.0|^8.0"
     },
     "require-dev": {
